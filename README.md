@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Waithaka Waweru
 
-[![Website](https://img.shields.io/website?label=weshy007.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://weshy00.herokuapp.com)
+[![Website](https://img.shields.io/website?label=weshy007.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://weshy007.github.io/portfolio1)
 
 ## Full-Stack Developer!!
 
