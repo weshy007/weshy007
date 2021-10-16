@@ -7,7 +7,7 @@
 
 ## Full-Stack Developer!!
 
-- 🔭 Dev Portfolio: (https://weshy007.github.io/portfolio1)
+- 🔭 Dev Portfolio: (https://weshy007.github.io/portfolioOne)
 - 💼 Any feedback? do reach, [Send an Email](mailto:josephwaweru96@gmail.com) 
 
 
