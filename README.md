@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on Python/Django projects.
 - 👯 Looking forward to collaborate on Backend related projects.
- 
 - 🤔 I’m looking for help with Android Dev...
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) 
 
@@ -19,8 +18,6 @@
 ### Connect With Me:
 
 [![Linkedin: WaithakaWaweru](https://img.shields.io/badge/-WaithakaWaweru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waithakawaweru/)](https://www.linkedin.com/in/waithaka-waweru/)
-[![GitHub Weshy007](https://img.shields.io/github/followers/weshy007?label=follow&style=social)](https://github.com/weshy007)
-
 ---
 
 ---
