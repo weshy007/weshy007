@@ -26,4 +26,4 @@
 ---
 
 ## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=weshy007&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=weshy007&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=weshy007&&show_icons=true&count_private=true&theme=radical"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=weshy007&theme=radical"/>
