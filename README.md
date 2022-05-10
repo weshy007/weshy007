@@ -29,10 +29,25 @@
 </a>
 
 ---
+---
 
-## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=weshy007&&show_icons=true&count_private=true&theme=radical"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=weshy007&theme=radical"/>
+<!-- ## My Github Stats -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=weshy007&&show_icons=true&count_private=true&theme=radical"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=weshy007&theme=radical"/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=weshy007&&style=flat-square" align="center" />
-</div> 
+</div>  -->
+
+### :octocat: My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=weshy007&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=weshy007&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+  
+  </tr>   
+</table>
+
+![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-light-mode-only)
