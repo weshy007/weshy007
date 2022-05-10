@@ -51,3 +51,9 @@
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+---
+---
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=weshy007&&style=flat-square" align="center" />
+</div> 
