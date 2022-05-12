@@ -52,6 +52,8 @@
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weshy007&layout=compact&theme=merko&langs_count=10)](https://github.com/weshy007/github-readme-stats)
+
 ---
 ---
 <div align="center">
