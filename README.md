@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Python/Django projects.
 - 👯 Looking forward to collaborate on Backend related projects.
 - 🤔 I’m looking for help with Android Dev...
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) 
+- 🌱 I’m currently learning Android Development ([Kotlin](https://kotlinlang.org/)) with Google Africa Developer Scholarship program 
 
 
 ---
