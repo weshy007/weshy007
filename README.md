@@ -1,7 +1,7 @@
 
 
 
-### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Waithaka Waweru
+### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="50px" width="30px">... I'm Waithaka Waweru
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
 
 
@@ -53,6 +53,11 @@
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weshy007&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/weshy007/github-readme-stats)
+
+---
+---
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=weshy007&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 ---
