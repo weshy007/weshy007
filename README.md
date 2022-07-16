@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on Python/Django projects.
 - 👯 Looking forward to collaborate on Backend related projects.
+- 🌱 I’m currently learning [ReactJS](https://reactjs.org/).
+<!--
 - 🤔 I’m looking for help with Android Dev...
-- 🌱 I’m currently learning Android Development ([Kotlin](https://kotlinlang.org/)) with Google Africa Developer Scholarship program 
 
+-->
 
 ---
 ---
