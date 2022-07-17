@@ -9,10 +9,13 @@
 
 - 🔭 I’m currently working on Python/Django projects.
 - 👯 Looking forward to collaborate on Backend related projects.
-- 🌱 I’m currently learning [ReactJS](https://reactjs.org/).
+- :computer: Most used line of code `python manage.py runserver` but for me it's just `make serve`
+- ⚡ Fun fact: I play video games and I love watching football && Formula 1.
+
+
 <!--
 - 🤔 I’m looking for help with Android Dev...
-
+- 🌱 I’m currently learning [ReactJS](https://reactjs.org/).
 -->
 
 ---
