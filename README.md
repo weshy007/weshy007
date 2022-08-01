@@ -66,6 +66,9 @@
 ---
 ---
 
+<a href="https://github.com/weshy007/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=weshy007&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
+</a>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=weshy007&&style=flat-square" align="center" />
 </div> 
