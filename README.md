@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Python/Django projects.
 - 👯 Looking forward to collaborate on Backend related projects.
 - :computer: Most used line of code `python manage.py runserver` but for me it's just `make serve`
-- ⚡ Fun fact: I play video games and I love watching football && Formula 1.
+- ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Max Verstappen)*.
 
 
 <!--
@@ -57,15 +57,15 @@
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weshy007&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/weshy007/github-readme-stats)
 
----
----
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=weshy007&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
 
 ---
 ---
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=weshy007&&style=flat-square" align="center" />
 </div> 
