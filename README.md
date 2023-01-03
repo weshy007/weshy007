@@ -7,10 +7,10 @@
 
 ## Full-Stack Developer!!
 
-- 🔭 I’m currently working on Python/Django projects.
+- 🔭 I’m currently working on Django && Java projects.
 - 👯 Looking forward to collaborate on Backend related projects.
-- :computer: Most used line of code `python manage.py runserver` but for me it's just `make serve`
-- ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Max Verstappen)*.
+- :computer: Most used line of code `python manage.py runserver`.
+- ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
 
 
 <!--
@@ -60,14 +60,15 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weshy007&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/weshy007/github-readme-stats)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
 
 ---
 ---
 
-<a href="https://github.com/weshy007/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=weshy007&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
-</a>
+<!-- <a href="https://github.com/weshy007/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=weshy007&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
+</a> -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=weshy007&&style=flat-square" align="center" />
