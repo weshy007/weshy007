@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on Django && Java projects.
 - 👯 Looking forward to collaborate on Backend related projects.
 - :computer: Most used line of code `python manage.py runserver`.
-- ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
-
+<!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
+ -->
 
 <!--
 - 🤔 I’m looking for help with Android Dev...
