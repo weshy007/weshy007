@@ -13,6 +13,18 @@
 
 ---
 ---
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2030%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1881-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
+
+<!--END_SECTION:waka-->
+
+
+<!--
 ### Connect With Me:
 
 
@@ -24,7 +36,8 @@
 </a>
 <a href="https://linkedin.com/in/waithaka-waweru" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> 
+-->
 
 ---
 ---
