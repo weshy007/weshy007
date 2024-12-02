@@ -21,12 +21,50 @@
 
 > 📦 298.4 kB Used in GitHub's Storage 
  > 
+> 🏆 480 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 121 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌆 Daytime                1282 commits        █████████████████░░░░░░░░   68.16 % 
+🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   674 commits         █████████░░░░░░░░░░░░░░░░   35.83 % 
+Tuesday                  330 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Friday                   146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Saturday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Sunday                   153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -40,7 +78,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 00:55:16 UTC
+ Last Updated on 02/12/2024 00:47:21 UTC
 <!--END_SECTION:waka-->
 
 
