@@ -56,13 +56,13 @@ Sunday                   153 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2025 00:49:09 UTC
+ Last Updated on 12/11/2025 00:49:10 UTC
 <!--END_SECTION:waka-->
 
 
