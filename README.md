@@ -17,18 +17,7 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.95%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
 
-> 📦 298.9 kB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 121 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -70,7 +59,7 @@ Antigravity              30 mins             ████░░░░░░░�
 Linux                    2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**Top Languages** 
 
 ```text
 Python                   63 repos            █████████████░░░░░░░░░░░░   50.40 % 
@@ -127,11 +116,11 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/weshy007/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weshy007&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/weshy007/github-readme-stats)
+<div align="center">
 
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
+
+</div>
 
 ---
 ---
