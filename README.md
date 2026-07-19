@@ -1,15 +1,19 @@
-### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="25px" width="20px">...I'm Waithaka Waweru, Backed Developer!
+# Hi there👋, I'm Waithaka Waweru
 
-- 🔭 I’m currently working on Django && Java Springboot projects.
-- 👯 Looking forward to collaborating on Backend-related projects.
-- :computer: Most used CLI line`python manage.py runserver`.
-<!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
- -->
+### Software Engineer | Backend Developer | Data Analytics & Predictive Science
+I'm a software engineer passionate about building scalable backend systems, designing APIs, and solving real-world problems with data. Over the past 3+ years, I've worked across backend engineering, cloud deployments, and data analytics, helping build reliable systems while uncovering actionable insights from data.
 
-<!--
-- 🤔 I’m looking for help with Android Dev...
-- 🌱 I’m currently learning [ReactJS](https://reactjs.org/).
--->
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer with **3+ years** of professional experience
+- 🐍 Building backend applications with **Python, Django & Django REST Framework**
+- ☕ Developing enterprise applications with **Java & Spring Boot**
+- 📊 Certified in **Data Analytics & Predictive Science**
+- ☁️ Deploying applications using **Docker** and **Google Cloud Platform (GCP)**
+- 📈 Passionate about **Data Science, Predictive Analytics & Machine Learning**
+- 🤝 Always open to collaborating on backend engineering and data-driven projects
 
 ---
 ---
@@ -18,17 +22,6 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
-
-> 📦 299.7 kB Used in GitHub's Storage 
- > 
-> 🏆 38 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 124 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
