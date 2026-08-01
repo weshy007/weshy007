@@ -62,26 +62,26 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.82 % 
-Bash                     47 mins             ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   1 hr 7 mins         ████████████░░░░░░░░░░░░░   49.73 % 
+Bash                     47 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Antigravity              1 hr 22 mins        █████████████░░░░░░░░░░░░   53.30 % 
-VS Code                  1 hr 12 mins        ████████████░░░░░░░░░░░░░   46.70 % 
+Antigravity              1 hr 22 mins        ███████████████░░░░░░░░░░   60.75 % 
+VS Code                  53 mins             ██████████░░░░░░░░░░░░░░░   39.25 % 
 
 💻 Operating System: 
-Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (9.69%)
+⏱ AI Coding Time: 14 mins (11.04%)
 
-✍️ 173 lines written by AI, 506 lines written by hand (25.48% AI-written)
+✍️ 173 lines written by AI, 488 lines written by hand (26.17% AI-written)
 
 🔤 2,824,257 Input Tokens, 14,607 Output Tokens
 
@@ -92,10 +92,10 @@ Linux                    2 hrs 34 mins       ███████████�
 GPT                      178 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.48% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 26.17% of written lines came from AI
 📄 Detailed Prompter — average 668 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 78.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 77.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 01:29:47 UTC
+ Last Updated on 01/08/2026 01:31:12 UTC
 <!--END_SECTION:waka-->
 
 
