@@ -27,8 +27,6 @@ I'm a software engineer passionate about building scalable backend systems, desi
 
 > 📦 299.9 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
- > 
 > 💼 Opted to Hire
  > 
 > 📜 126 Public Repositories 
@@ -62,40 +60,24 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   2 hrs               ███████████████░░░░░░░░░░   61.73 % 
-Bash                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   1 hr 16 mins        ████████████░░░░░░░░░░░░░   49.51 % 
+SQL                      52 mins             █████████░░░░░░░░░░░░░░░░   34.14 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        ██████████████░░░░░░░░░░░   57.70 % 
-Antigravity              1 hr 22 mins        ███████████░░░░░░░░░░░░░░   42.30 % 
+VS Code                  2 hrs 11 mins       █████████████████████░░░░   85.32 % 
+Antigravity              22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 
 💻 Operating System: 
-Linux                    3 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (7.69%)
-
-✍️ 173 lines written by AI, 27,946 lines written by hand (0.62% AI-written)
-
-🔤 2,824,257 Input Tokens, 14,607 Output Tokens
-
-💵 $14.56 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-GPT                      178 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.62% of written lines came from AI
-📄 Detailed Prompter — average 668 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.65% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +93,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 01:23:17 UTC
+ Last Updated on 06/08/2026 01:20:05 UTC
 <!--END_SECTION:waka-->
 
 
