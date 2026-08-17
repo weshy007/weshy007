@@ -1,6 +1,6 @@
 # Hi there👋, I'm Waithaka Waweru
 
-### Software Engineer | Backend Developer | Data Analytics & Predictive Science
+### Data Scientiest | Data Analytics & Predictive Science | Backend Developer 
 I'm a software engineer passionate about building scalable backend systems, designing APIs, and solving real-world problems with data. Over the past 3+ years, I've worked across backend engineering, cloud deployments, and data analytics, helping build reliable systems while uncovering actionable insights from data.
 
 ---
