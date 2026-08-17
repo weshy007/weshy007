@@ -59,7 +59,7 @@ Sunday                   165 commits         ██░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Africa/Nairobi
+🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
 SQL                      1 hr 33 mins        ██████████████████░░░░░░░   71.78 % 
