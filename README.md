@@ -62,26 +62,26 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-SQL                      1 hr 33 mins        ██████████████████░░░░░░░   71.78 % 
-Python                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+SQL                      1 hr 33 mins        █████████████████░░░░░░░░   69.73 % 
+Python                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        ████████████████████░░░░░   81.95 % 
-Codex Vscode             23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+VS Code                  1 hr 50 mins        █████████████████████░░░░   82.47 % 
+Codex Vscode             23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 
 💻 Operating System: 
-Linux                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (30.2%)
+⏱ AI Coding Time: 39 mins (29.34%)
 
-✍️ 910 lines written by AI, 3,065 lines written by hand (22.89% AI-written)
+✍️ 910 lines written by AI, 3,075 lines written by hand (22.84% AI-written)
 
 🔤 1,367,915 Input Tokens, 82,058 Output Tokens
 
@@ -94,10 +94,10 @@ Github-Copilot           257 lines           ███████░░░░�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.89% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 22.84% of written lines came from AI
 📝 Concise Prompter — average 430 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 84.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +113,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 00:33:43 UTC
+ Last Updated on 19/08/2026 00:34:00 UTC
 <!--END_SECTION:waka-->
 
 
