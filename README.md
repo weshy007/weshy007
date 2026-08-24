@@ -62,38 +62,22 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   1 hr 35 mins        █████████████████░░░░░░░░   66.75 % 
-SQL                      45 mins             ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   2 hrs 24 mins       █████████████████████████   98.48 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   98.80 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (1.2%)
-
-✍️ 0 lines written by AI, 1,679 lines written by hand (0.0% AI-written)
-
-🔤 2,556,892 Input Tokens, 108,084 Output Tokens
-
-💵 $23.11 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +93,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 00:36:32 UTC
+ Last Updated on 24/08/2026 00:34:51 UTC
 <!--END_SECTION:waka-->
 
 
