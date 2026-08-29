@@ -19,40 +19,40 @@ I'm a software engineer passionate about building scalable backend systems, desi
 ---
 [![wakatime](https://wakatime.com/badge/user/bebc43a1-1078-45b8-b266-cd9a9119fb66.svg)](https://wakatime.com/@bebc43a1-1078-45b8-b266-cd9a9119fb66)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.62%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 323.2 kB Used in GitHub's Storage 
+> 📦 323.3 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 38 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 127 Public Repositories 
+> 📜 128 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                1313 commits        █████████████████░░░░░░░░   66.75 % 
-🌃 Evening                385 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+🌞 Morning                220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+🌆 Daytime                1316 commits        █████████████████░░░░░░░░   66.73 % 
+🌃 Evening                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   687 commits         █████████░░░░░░░░░░░░░░░░   34.93 % 
-Tuesday                  351 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Monday                   687 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
+Tuesday                  351 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Friday                   152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 
@@ -62,55 +62,55 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   4 hrs 45 mins       ████████████████████████░   95.11 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   4 hrs 49 mins       █████████████████████░░░░   84.81 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  5 hrs               █████████████████████████   100.00 % 
+VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs               █████████████████████████   100.00 % 
+Linux                    5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (3.17%)
+⏱ AI Coding Time: 52 mins (15.32%)
 
-✍️ 7 lines written by AI, 1,051 lines written by hand (0.66% AI-written)
+✍️ 7 lines written by AI, 1,286 lines written by hand (0.54% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 140,074 Input Tokens, 1,086 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.44 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
 Github-Copilot           11 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.66% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.54% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 99.1% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   66 repos            █████████████░░░░░░░░░░░░   51.16 % 
-HTML                     23 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python                   66 repos            █████████████░░░░░░░░░░░░   50.77 % 
+HTML                     24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 
 
 
 
- Last Updated on 28/08/2026 07:24:30 UTC
+ Last Updated on 29/08/2026 04:35:07 UTC
 <!--END_SECTION:waka-->
 
 
