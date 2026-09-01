@@ -62,25 +62,25 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   6 hrs 18 mins       ████████████████░░░░░░░░░   65.86 % 
-Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python                   4 hrs 26 mins       ██████████████░░░░░░░░░░░   57.80 % 
+Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 2 mins (31.82%)
+⏱ AI Coding Time: 3 hrs 2 mins (39.62%)
 
-✍️ 508 lines written by AI, 4,380 lines written by hand (10.39% AI-written)
+✍️ 508 lines written by AI, 3,937 lines written by hand (11.43% AI-written)
 
 🔤 181,258 Input Tokens, 1,162 Output Tokens
 
@@ -91,10 +91,10 @@ Linux                    9 hrs 34 mins       ███████████�
 Github-Copilot           545 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.39% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.43% of written lines came from AI
 📝 Concise Prompter — average 202 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 94.11% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 01:59:38 UTC
+ Last Updated on 01/09/2026 02:21:45 UTC
 <!--END_SECTION:waka-->
 
 
