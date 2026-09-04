@@ -19,7 +19,7 @@ I'm a software engineer passionate about building scalable backend systems, desi
 ---
 [![wakatime](https://wakatime.com/badge/user/bebc43a1-1078-45b8-b266-cd9a9119fb66.svg)](https://wakatime.com/@bebc43a1-1078-45b8-b266-cd9a9119fb66)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.62%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,39 +62,39 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   4 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.04 % 
-Markdown                 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-HTML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Python                   5 hrs 40 mins       ██████████████░░░░░░░░░░░   54.09 % 
+Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 51 mins (40.48%)
+⏱ AI Coding Time: 3 hrs 44 mins (35.62%)
 
-✍️ 508 lines written by AI, 9,022 lines written by hand (5.33% AI-written)
+✍️ 501 lines written by AI, 9,572 lines written by hand (4.97% AI-written)
 
 🔤 201,076 Input Tokens, 2,088 Output Tokens
 
 💵 $0.63 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 56 AI Prompts
+🧠 15 AI Sessions, 53 AI Prompts
 
-Github-Copilot           545 lines           █████████████████████████   100.00 % 
+Github-Copilot           534 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.33% of written lines came from AI
-📝 Concise Prompter — average 248 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.97% of written lines came from AI
+📝 Concise Prompter — average 243 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.36% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 01:49:15 UTC
+ Last Updated on 04/09/2026 01:43:17 UTC
 <!--END_SECTION:waka-->
 
 
