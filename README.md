@@ -19,7 +19,7 @@ I'm a software engineer passionate about building scalable backend systems, desi
 ---
 [![wakatime](https://wakatime.com/badge/user/bebc43a1-1078-45b8-b266-cd9a9119fb66.svg)](https://wakatime.com/@bebc43a1-1078-45b8-b266-cd9a9119fb66)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,34 +62,36 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   2 hrs 47 mins       ███████████████████████░░   92.04 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Python                   1 hr 33 mins        █████████████████████░░░░   83.93 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Makefile                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (7.23%)
+⏱ AI Coding Time: 14 mins (13.35%)
 
-✍️ 0 lines written by AI, 1,021 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 976 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 54 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 51 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -106,7 +108,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 01:49:14 UTC
+ Last Updated on 11/09/2026 01:47:54 UTC
 <!--END_SECTION:waka-->
 
 
