@@ -62,31 +62,31 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        █████████████████████░░░░   83.93 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Makefile                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   31 mins             ██████████████████░░░░░░░   72.91 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Makefile                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (13.35%)
+⏱ AI Coding Time: 3 mins (8.52%)
 
-✍️ 0 lines written by AI, 976 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 690 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -98,17 +98,17 @@ Linux                    1 hr 51 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   68 repos            █████████████░░░░░░░░░░░░   51.52 % 
-HTML                     23 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   68 repos            █████████████░░░░░░░░░░░░   51.91 % 
+HTML                     23 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Java                     17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
 
 
- Last Updated on 11/09/2026 01:47:54 UTC
+ Last Updated on 12/09/2026 01:53:27 UTC
 <!--END_SECTION:waka-->
 
 
