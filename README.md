@@ -19,98 +19,36 @@ I'm a software engineer passionate about building scalable backend systems, desi
 ---
 [![wakatime](https://wakatime.com/badge/user/bebc43a1-1078-45b8-b266-cd9a9119fb66.svg)](https://wakatime.com/@bebc43a1-1078-45b8-b266-cd9a9119fb66)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 323.5 kB Used in GitHub's Storage 
+> 📦 325.2 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 131 Public Repositories 
  > 
-> 🔑 24 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-🌆 Daytime                1320 commits        █████████████████░░░░░░░░   66.57 % 
-🌃 Evening                393 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
-Tuesday                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Wednesday                284 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Friday                   152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Python                   43 mins             ██████████░░░░░░░░░░░░░░░   41.58 % 
-Markdown                 41 mins             ██████████░░░░░░░░░░░░░░░   39.49 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-
-🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 43 mins (41.24%)
-
-✍️ 1,810 lines written by AI, 3,453 lines written by hand (34.39% AI-written)
-
-🔤 148,984 Input Tokens, 1,389 Output Tokens
-
-💵 $0.47 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 21 AI Prompts
-
-Github-Copilot           1,915 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.39% of written lines came from AI
-📝 Concise Prompter — average 428 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 65.16% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   69 repos            █████████████░░░░░░░░░░░░   52.27 % 
-HTML                     23 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Java                     17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   69 repos            █████████████░░░░░░░░░░░░   51.88 % 
+HTML                     24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Java                     17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
 
 
- Last Updated on 15/09/2026 02:12:01 UTC
+ Last Updated on 16/09/2026 02:03:22 UTC
 <!--END_SECTION:waka-->
 
 
