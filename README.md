@@ -35,6 +35,72 @@ I'm a software engineer passionate about building scalable backend systems, desi
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+🌆 Daytime                1321 commits        █████████████████░░░░░░░░   66.45 % 
+🌃 Evening                393 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.76 % 
+Tuesday                  361 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Wednesday                284 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Friday                   152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Markdown                 1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+CSS                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 1 min         ████████████████████░░░░░   80.76 % 
+Codex Vscode             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Antigravity Desktop      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+
+💻 Operating System: 
+Linux                    3 hrs 45 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 2 mins (54.52%)
+
+✍️ 2,383 lines written by AI, 4,025 lines written by hand (37.19% AI-written)
+
+🔤 667,956 Input Tokens, 86,387 Output Tokens
+
+💵 $5.51 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 112 AI Prompts
+
+Github-Copilot           1,915 lines         ███████████████████░░░░░░   76.63 % 
+GPT                      584 lines           ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 37.19% of written lines came from AI
+📄 Detailed Prompter — average 1,094 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 64.22% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +114,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 02:03:22 UTC
+ Last Updated on 17/09/2026 02:06:35 UTC
 <!--END_SECTION:waka-->
 
 
