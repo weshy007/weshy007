@@ -62,42 +62,23 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   55 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-HTML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-CSS                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Python                   36 mins             █████████░░░░░░░░░░░░░░░░   37.47 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       ████████████████████░░░░░   78.71 % 
-Codex Vscode             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Antigravity Desktop      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (39.04%)
-
-✍️ 573 lines written by AI, 1,162 lines written by hand (33.03% AI-written)
-
-🔤 518,972 Input Tokens, 84,998 Output Tokens
-
-💵 $5.04 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 91 AI Prompts
-
-GPT                      584 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.03% of written lines came from AI
-📄 Detailed Prompter — average 1,248 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 83.89% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +94,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 02:09:46 UTC
+ Last Updated on 23/09/2026 02:09:05 UTC
 <!--END_SECTION:waka-->
 
 
