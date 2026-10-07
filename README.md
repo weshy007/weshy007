@@ -62,26 +62,26 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   53 mins             ████████████░░░░░░░░░░░░░   46.85 % 
-HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   1 hr 44 mins        █████████████████░░░░░░░░   66.79 % 
+HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        ██████████████████████░░░   89.62 % 
-Antigravity Desktop      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+VS Code                  2 hrs 25 mins       ███████████████████████░░   92.45 % 
+Antigravity Desktop      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (39.29%)
+⏱ AI Coding Time: 44 mins (28.57%)
 
-✍️ 0 lines written by AI, 10,949 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 16,151 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -109,7 +109,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 03:36:20 UTC
+ Last Updated on 07/10/2026 03:02:58 UTC
 <!--END_SECTION:waka-->
 
 
