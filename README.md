@@ -27,7 +27,7 @@ I'm a software engineer passionate about building scalable backend systems, desi
 
 > 📦 325.3 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2026
+> 🏆 71 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +38,21 @@ I'm a software engineer passionate about building scalable backend systems, desi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                1327 commits        █████████████████░░░░░░░░   66.15 % 
-🌃 Evening                403 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                1329 commits        █████████████████░░░░░░░░   66.19 % 
+🌃 Evening                403 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-Tuesday                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Wednesday                291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
+Tuesday                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 ```
 
 
@@ -62,37 +62,37 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        █████████████████░░░░░░░░   66.79 % 
-HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   1 hr 54 mins        █████████████████████░░░░   85.48 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       ███████████████████████░░   92.45 % 
-Antigravity Desktop      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+VS Code                  2 hrs 9 mins        ████████████████████████░   96.76 % 
+Antigravity Desktop      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (28.57%)
+⏱ AI Coding Time: 16 mins (12.18%)
 
-✍️ 0 lines written by AI, 16,151 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 17,530 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 392 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 138 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -109,7 +109,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 03:02:58 UTC
+ Last Updated on 08/10/2026 03:19:07 UTC
 <!--END_SECTION:waka-->
 
 
