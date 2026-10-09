@@ -19,15 +19,15 @@ I'm a software engineer passionate about building scalable backend systems, desi
 ---
 [![wakatime](https://wakatime.com/badge/user/bebc43a1-1078-45b8-b266-cd9a9119fb66.svg)](https://wakatime.com/@bebc43a1-1078-45b8-b266-cd9a9119fb66)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 325.3 kB Used in GitHub's Storage 
+> 📦 325.5 kB Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2026
+> 🏆 74 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +38,21 @@ I'm a software engineer passionate about building scalable backend systems, desi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌆 Daytime                1329 commits        █████████████████░░░░░░░░   66.19 % 
-🌃 Evening                403 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+🌆 Daytime                1337 commits        █████████████████░░░░░░░░   66.32 % 
+🌃 Evening                403 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
-Tuesday                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
+Tuesday                  362 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Wednesday                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 ```
 
 
@@ -62,38 +62,39 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   1 hr 54 mins        █████████████████████░░░░   85.48 % 
-CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Python                   2 hrs 7 mins        ████████████████████████░   96.72 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        ████████████████████████░   96.76 % 
-Antigravity Desktop      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (12.18%)
+⏱ AI Coding Time: 4 mins (3.16%)
 
-✍️ 0 lines written by AI, 17,530 lines written by hand (0.0% AI-written)
+✍️ 3 lines written by AI, 13,297 lines written by hand (0.02% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.02% of written lines came from AI
+📝 Concise Prompter — average 317 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +110,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 03:19:07 UTC
+ Last Updated on 09/10/2026 03:25:15 UTC
 <!--END_SECTION:waka-->
 
 
