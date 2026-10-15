@@ -62,25 +62,25 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       █████████████████████░░░░   85.51 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python                   3 hrs 12 mins       █████████████████████░░░░   84.72 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (10.79%)
+⏱ AI Coding Time: 25 mins (11.38%)
 
-✍️ 3 lines written by AI, 90,337 lines written by hand (0.0% AI-written)
+✍️ 3 lines written by AI, 88,901 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -110,7 +110,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 02:27:53 UTC
+ Last Updated on 15/10/2026 02:08:27 UTC
 <!--END_SECTION:waka-->
 
 
