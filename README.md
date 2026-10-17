@@ -62,35 +62,35 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   2 hrs 46 mins       █████████████████████░░░░   84.21 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   59 mins             ████████████████████████░   94.12 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (10.94%)
+⏱ AI Coding Time: 14 mins (22.81%)
 
-✍️ 0 lines written by AI, 89,568 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,575 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 920 characters per prompt
+📄 Detailed Prompter — average 1,169 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 01:58:56 UTC
+ Last Updated on 17/10/2026 01:53:24 UTC
 <!--END_SECTION:waka-->
 
 
