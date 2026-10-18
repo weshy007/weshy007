@@ -62,23 +62,23 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   59 mins             ████████████████████████░   94.12 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python                   46 mins             ███████████████████████░░   92.56 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (22.81%)
+⏱ AI Coding Time: 14 mins (28.84%)
 
 ✍️ 0 lines written by AI, 1,575 lines written by hand (0.0% AI-written)
 
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 01:53:24 UTC
+ Last Updated on 18/10/2026 01:51:52 UTC
 <!--END_SECTION:waka-->
 
 
