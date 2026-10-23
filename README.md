@@ -62,14 +62,15 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   5 mins              ████████████████░░░░░░░░░   64.02 % 
-Dart                     2 mins              █████████░░░░░░░░░░░░░░░░   35.98 % 
+Dart                     2 mins              ██████████████░░░░░░░░░░░   57.94 % 
+Python                   1 min               ██████████░░░░░░░░░░░░░░░   39.23 % 
+CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +92,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:12:45 UTC
+ Last Updated on 23/10/2026 02:19:05 UTC
 <!--END_SECTION:waka-->
 
 
