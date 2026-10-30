@@ -19,15 +19,15 @@ I'm a software engineer passionate about building scalable backend systems, desi
 ---
 [![wakatime](https://wakatime.com/badge/user/bebc43a1-1078-45b8-b266-cd9a9119fb66.svg)](https://wakatime.com/@bebc43a1-1078-45b8-b266-cd9a9119fb66)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.69%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 325.7 kB Used in GitHub's Storage 
+> 📦 325.8 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -35,69 +35,6 @@ I'm a software engineer passionate about building scalable backend systems, desi
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-🌆 Daytime                1338 commits        █████████████████░░░░░░░░   66.24 % 
-🌃 Evening                406 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   691 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
-Tuesday                  365 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Wednesday                298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Thursday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Python                   1 hr 47 mins        ██████████████████░░░░░░░   72.46 % 
-Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 36 mins (24.54%)
-
-✍️ 30 lines written by AI, 16,466 lines written by hand (0.18% AI-written)
-
-🔤 24,589 Input Tokens, 779 Output Tokens
-
-💵 $0.09 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 9 AI Prompts
-
-Vscode                   30 lines            █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
-📝 Concise Prompter — average 441 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.87% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +48,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:12:12 UTC
+ Last Updated on 30/10/2026 03:16:00 UTC
 <!--END_SECTION:waka-->
 
 
